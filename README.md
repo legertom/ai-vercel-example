@@ -46,3 +46,12 @@ A section to address common questions, helping to reduce the number of support r
 ## Demo
 Check out the live demo here: [Live Demo Link](#)
 Explore the app with a guest account or sign up for a full experience.
+
+## Code Examples
+To get started with our API, include the following code snippet in your project:
+```javascript
+const myApp = require('myApp');
+
+myApp.initialize({
+  apiKey: 'YOUR_API_KEY'
+});
