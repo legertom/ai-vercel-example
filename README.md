@@ -34,3 +34,11 @@ Specify the license under which the app is released, and briefly explain what it
 Provide contact details or links to social media for support, feedback, or inquiries.
 12. FAQs
 A section to address common questions, helping to reduce the number of support requests and clarify any uncertainties about the app.
+
+| ID  | Name         | Date       | Status    | Comments                    |
+|-----|--------------|------------|-----------|-----------------------------|
+| 1   | John Doe     | 2024-02-01 | Completed | Successfully finished task. |
+| 2   | Jane Smith   | 2024-02-05 | Pending   | Awaiting review.            |
+| 3   | Alex Johnson | 2024-02-10 | In Progress | Working on the final touches. |
+| 4   | Maria Garcia | 2024-02-15 | Cancelled | Cancelled due to requirements change. |
+| 5   | James Brown  | 2024-02-20 | Completed | Delivered ahead of schedule. |
