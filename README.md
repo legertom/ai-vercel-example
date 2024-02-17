@@ -1,24 +1,39 @@
-# Example, a Next JS App
-A chat wrapper for local LLMs.
-
-## A poem
-
-In the realm of web development, there's a name that's sure to bring cheer,
-Next.js is the tool that developers hold dear.
-With version 14, they've reached new heights,
-A beast of a framework that's here to stay and brighten up nights.
-
-Its power and might are hard to deny,
-A React-based platform that takes flight.
-Smart Routing, Server Side Rendering, and more,
-Next.js helps developers build faster, and they adore.
-
-From pages to APIs, it's all so grand,
-With Next.js, you're in a land of pure command.
-So come on down, don't be shy,
-And join the Next.js crew, before you say goodbye.
-
-It's fun and easy, with a smile and a wink,
-Next.js helps developers build, and they quickly blink.
-Innovation is its middle name, it's true,
-Next.js is here to stay, and that's what you do.
+1. Project Title
+A concise and descriptive title for your web app.
+2. Introduction
+A brief description of the web app, including its purpose and key features.
+3. Table of Contents (Optional)
+If the README is long, include a table of contents to help readers navigate to different sections.
+4. Getting Started
+Prerequisites
+Any prerequisites needed to install or run the web app, such as Node.js, Python, Docker, etc.
+Installation
+Step-by-step instructions on how to get a development environment running.
+Deployment
+Instructions on how to deploy the web app in a live system.
+5. Usage
+Examples of how to use the web app, including:
+Basic operations and functionalities.
+Screenshots or GIFs demonstrating the app in action (if applicable).
+6. Features
+A detailed list of the web app's features.
+Any unique selling points (USPs) or innovative aspects of the app.
+7. Built With
+Technologies, frameworks, libraries, and tools used in the development of the web app.
+8. Contributing
+Guidelines for contributing to the web app, including:
+How to submit issues and feature requests.
+The process for submitting pull requests.
+9. Versioning
+Information on the versioning system used, if applicable.
+10. Authors and Acknowledgment
+Credits to the team members and contributors.
+Acknowledgments to resources, libraries, or tools that played a significant role.
+11. License
+The license under which the web app is released, with a link to the full license text.
+12. Contact Information
+How to reach the development team for support or questions.
+13. FAQs
+Answers to frequently asked questions regarding the web app.
+14. Changelog
+(Optional) A log of changes made over time, useful for users to track updates and improvements.
