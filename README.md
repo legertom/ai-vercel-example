@@ -55,3 +55,9 @@ const myApp = require('myApp');
 myApp.initialize({
   apiKey: 'YOUR_API_KEY'
 });
+
+## What Users Are Saying
+
+> "This app has streamlined our workflow significantly. Highly recommend trying it out." - Jane Doe, Product Manager
+
+> "A robust solution that fits perfectly with our needs. Excellent support team too!" - John Smith, Developer
