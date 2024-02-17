@@ -42,3 +42,7 @@ A section to address common questions, helping to reduce the number of support r
 | 3   | Alex Johnson | 2024-02-10 | In Progress | Working on the final touches. |
 | 4   | Maria Garcia | 2024-02-15 | Cancelled | Cancelled due to requirements change. |
 | 5   | James Brown  | 2024-02-20 | Completed | Delivered ahead of schedule. |
+
+## Demo
+Check out the live demo here: [Live Demo Link](#)
+Explore the app with a guest account or sign up for a full experience.
