@@ -4,12 +4,12 @@ import { Message, experimental_useAssistant as useAssistant } from 'ai/react';
 import { useEffect, useRef } from 'react';
 
 const roleToColorMap: Record<Message['role'], string> = {
-  system: 'red',
+  system: 'orange',
   user: 'black',
   function: 'blue',
   tool: 'purple',
   assistant: 'green',
-  data: 'orange',
+  data: 'red',
 };
 
 export default function Chat() {
