@@ -47,6 +47,9 @@ A section to address common questions, helping to reduce the number of support r
 Check out the live demo here: [Live Demo Link](#)
 Explore the app with a guest account or sign up for a full experience.
 
+## Update the Page Colors
+To change the assisant colors edit settings on the page.tsx file in the assistant folder.
+
 ## Code Examples
 To get started with our API, include the following code snippet in your project:
 ```javascript
