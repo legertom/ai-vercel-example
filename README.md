@@ -61,6 +61,6 @@ myApp.initialize({
 
 ## What Users Are Saying
 
-> "This app has streamlined our workflow significantly. Highly recommend trying it out." - Jane Doe, Product Manager
+> "This app has streamlined our workflow significantly. Highly recommend trying it out." - Jane Doe, Product Owner/ Manager
 
 > "A robust solution that fits perfectly with our needs. Excellent support team too!" - John Smith, Developer
